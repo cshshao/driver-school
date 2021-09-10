@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm3j4fo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssm3j4fo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssm3j4fo.war">
+      <element id="artifact" artifact-name="ssm3j4fo:war exploded" />
+    </root>
+  </artifact>
+</component>
